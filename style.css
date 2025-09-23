@@ -13,3 +13,7 @@ a {
 a:hover {
     transform: scale(1.5);
 }
+.center {
+    font-weight: bold;
+    margin-left: 5px;
+}
