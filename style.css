@@ -17,6 +17,9 @@ html {
         filter: blur(0px);
     }
 }
+h1 {
+  hrtext-align: center;
+}
 hr {
     color: black;
     border: solid 1px;
