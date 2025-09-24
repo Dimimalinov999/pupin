@@ -32,6 +32,7 @@ a:hover {
     font-weight: bold;
     margin-left: 5px;
     transition: 200ms;
+    text-align: center;
 }
 .links a {
     font-size: 120%;
