@@ -6,6 +6,8 @@ html {
     word-break: break-word;
     overflow-wrap: anywhere;
     white-space: normal;
+    color: white;
+    background-color: #0a0a0a;
 }
 @keyframes fade-in {
     from {
@@ -21,11 +23,11 @@ h1 {
   text-align: center;
 }
 hr {
-    color: black;
+    color: white;
     border: solid 1px;
 }
 a {
-    color: black;
+    color: white;
     transition: 200ms;
 }
 a:hover {
