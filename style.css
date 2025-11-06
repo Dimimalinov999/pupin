@@ -11,10 +11,12 @@ html {
 }
 @keyframes fade-in {
     from {
+    	background-color: #0a0a0a;
         opacity: 0;
         filter: blur(1px);
     }
     to {
+    	background-color: #0a0a0a;
         opacity: 1;
         filter: blur(0px);
     }
